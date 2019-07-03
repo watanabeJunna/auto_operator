@@ -15,9 +15,7 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import re_path, include
-import instagram.views
 import redirect.views
-import about.views
 
 urlpatterns = [
     re_path(r'^$', redirect.views.about),
