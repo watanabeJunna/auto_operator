@@ -30,7 +30,7 @@ pyparsing==2.2.2
 pyperclip==1.6.5
 python-memcached==1.59
 pytz==2019.1
-PyYAML==5.1.1
+PyYAML==5.4
 ruamel.yaml==0.15.97
 selenium==3.141.0
 six==1.12.0
