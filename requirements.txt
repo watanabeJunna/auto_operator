@@ -19,7 +19,7 @@ kaitaistruct==0.8
 ldap3==2.5.2
 mitmproxy==4.0.4
 passlib==1.7.1
-Pillow==6.0.0
+Pillow==9.3.0
 psycopg2==2.7.5
 psycopg2-binary==2.7.5
 pyasn1==0.4.5
